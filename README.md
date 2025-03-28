@@ -1,5 +1,7 @@
 Student Management System Documentation
+
 Overview:
+
 This C++ program implements a Student Management System using templates and vectors. It allows users to:
 
 Add new students
