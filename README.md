@@ -26,17 +26,21 @@ Displaying Students (displayAllStudents())
 Removing Students by ID (removeStudentById())
 Searching Students by ID (searchStudentById())
 Function Descriptions:
-✅ addStudent()
+
+addStudent()
 Takes user input for student ID and name.
 Uses vector.push_back() to store them.
-✅ displayAllStudents()
+
+displayAllStudents()
 Displays all student IDs and names.
 Checks if the student list is empty before displaying.
-✅ removeStudentById()
+
+removeStudentById()
 Searches for a student by ID.
 If found, removes the student using vector.erase().
 If not found, displays an error message.
-✅ searchStudentById()
+
+searchStudentById()
 Searches for a student by ID.
 If found, displays their details.
 If not found, shows an error message.
