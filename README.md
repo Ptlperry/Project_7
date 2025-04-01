@@ -1,4 +1,12 @@
-Student Management System Documentation Overview:
+Output:-
+![SCREEN1](https://github.com/user-attachments/assets/1234648a-fe1d-432f-9918-5605e87e915a)
+![SCREEN2](https://github.com/user-attachments/assets/e25ec62e-5ecd-4932-9dfb-f96e2c433ffa)
+![SCREEN3](https://github.com/user-attachments/assets/3620fdba-9584-4255-993d-fce79a2b015a)
+![SCREEN4](https://github.com/user-attachments/assets/4b8b7e78-8b98-4eb1-8a40-d2dacd291dfa)
+
+
+
+> Student Management System Documentation Overview:
 
 This C++ program implements a Student Management System using templates and vectors. It allows users to:
 
