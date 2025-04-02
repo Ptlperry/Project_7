@@ -11,9 +11,17 @@ Output:-
 This C++ program implements a Student Management System using templates and vectors. It allows users to:
 
 → Add new students
+
+
 → Display all students
+
+
 → Remove a student by ID
-→ Search for a student by ID
+
+
+→ Search for a student by 
+
+
 → Exit the program
 
 The program follows an object-oriented approach, utilizing class inheritance to manage students effectively.
